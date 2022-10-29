@@ -1,0 +1,2 @@
+google-cloud-datastore==2.9.0
+pendulum==2.1.2
